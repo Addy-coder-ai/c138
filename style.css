@@ -1,0 +1,22 @@
+body{
+    background-image: url("background.jpg");
+}
+
+#heading{
+    background-color: blue;
+    color: white;
+    display: inline;
+    text-align:left;
+}
+
+#thalai{
+    width: 100%;
+}
+
+#insta{
+    float: right;
+    font-size: 15px;
+    border: 2px solid blue;
+    background-color: green;
+    color:red ;
+}
